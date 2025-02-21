@@ -1,1 +1,1 @@
-# stock-prediction
+# Volatility Forecasting in Indian Financial Markets
